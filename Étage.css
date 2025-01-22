@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {margin-top: 10px;
+    padding: 0%;
+    background-image: url(/Images/Étage.jpg);
+    background-repeat: no-repeat;
+    width: 1500px;
+   height: 1080px;
+   background-color: black; 
+   display: block;
+}
+
+header{padding:0% ;
+    margin-top: 100px;
+    margin-left: 5%; 
+    text-align: center;
+    font-size: 125px;
+    text-transform: uppercase;
+    color: #556B2F;
+    letter-spacing: 10px;
+    text-shadow: 5px 1px red;
+}
+ h2 {padding:0px;
+    margin-left: 40px;
+    margin-top: 700px; 
+  text-align: center;
+  font-size: 50px;
+  font-weight: 400;
+  color: olivedrab; 
+  text-transform: uppercase;
+  font-weight: bold;}
+ 
+ 
+  .Boutton-1 {Font-size: 60px;
+    border-width:100px;
+    background-color: black;
+    margin-top:250px;
+    margin-left: 25px;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-color: #556B2F;
+    border-style: ridge;
+    height:0%;
+    Width: 800px;
+  }
+
+  .Boutton-2 {Font-size: 70px;
+    border-width:100px;
+    background-color: black;
+    margin-top:250px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-style: ridge;
+    border-color: #556B2F;
+    height:0%;
+    Width: 800px;
+  }
+  Span {text-transform: uppercase;
+  text-decoration: underline;}

@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {margin-top: 10px;
+    padding: 0%;
+    background-color: #8F7264;
+    background-image:url(./Images/Élecrtrique.jpg);
+    background-repeat: no-repeat;
+background-size: contain;
+   display: block;
+   margin-right: 100px;
+
+}
+
+header{
+  padding:0% ;
+  margin-top: 10px;
+  margin-left: 10%; 
+  text-align: center;
+  font-size: 80px;
+  text-transform: uppercase;
+  color: orangered;
+  letter-spacing: 10px;
+  text-shadow: 10px 0px brown;
+}
+
+  
+
+ h2 {padding:100px;
+  margin-top: 622px; 
+  text-align: center;
+  font-size: 70px;
+  font-weight: 800;
+  color: orangered; 
+  opacity: 80%;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 5px 4px brown;
+  Width:1650px;
+  height: 500px;}
+ 
+ 
+  .Boutton-1 {Font-size: 100px;
+    border-width:100px;
+    background-color:goldenrod;;
+    margin-top:300px;
+    margin-left: 50%;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-style: ridge;
+    height:0%;
+    Width: 800px;
+    border-color: gold;
+  }
+ 

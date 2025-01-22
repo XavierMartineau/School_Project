@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {margin-top: 10px;
+    padding: 0%;
+    background-image:url(./Images/Soins.jpg);
+    background-color: #768582;
+    background-repeat: no-repeat;
+background-size: contain;
+   display: block;
+   margin-right: 100px;
+
+}
+
+
+header{
+  padding:0% ;
+  margin-top: 10px;
+  margin-left: 10%; 
+  text-align: center;
+  font-size: 80px;
+  text-transform: uppercase;
+  color: gold;
+  letter-spacing: 10px;
+  text-shadow: 10px 0px brown;
+}
+ h2 {padding:100px;
+  margin-top: 700px; 
+  text-align: center;
+  font-size: 70px;
+  font-weight: 800;
+  color: gold; 
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 5px 4px brown;
+  Width:1650px;
+  height: 500px;}
+ 
+ 
+  .Boutton-1 {Font-size: 70px;
+    border-width:100px;
+    background-color: gold;
+    margin-top:150px;
+    margin-left: 50%;
+    margin-right: 50%;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-style: ridge;
+    height:0%;
+    Width: 800px;
+    border-color: goldenrod;
+  }
+  

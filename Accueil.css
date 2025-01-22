@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  body {
+    position: relative;
+     margin-top: 10px;
+    padding: 0%;
+    background-image: url(/Images/Maison.jpg);
+background-repeat: no-repeat;
+width: 1500px;
+height: 1080px;
+background-color: brown; 
+display: block;}
+
+
+header {padding:0% ;
+  margin-top: 100px; 
+  margin-left: 8%;
+  text-align: center;
+  font-size: 100px;
+  text-transform: uppercase;
+  color: brown;
+  letter-spacing: 10px;
+  text-shadow: 15px -0px wheat;}
+ 
+ 
+  main {
+    position: relative;
+    background-image: url(/Images/Acceuil.jpg);
+    background-repeat: no-repeat;
+  width:1650px;
+  height:1080px;
+  padding:0%;
+  margin-top: 700px;
+  display:block;
+  background-color: #2F4F4F;
+    background-position: center;}
+  
+  h2 {padding:0px;
+  margin-top:100px; 
+  background-color: brown;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 400;
+  color: wheat;
+  text-transform: uppercase;
+  font-weight: bold;}
+  
+  h3 {color:#8B0000;
+  text-align: center;
+  background-color: grey;
+  line-height: 1.15;
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-top: 0%;
+  padding-bottom: 5%;
+  font-size: 45px;
+  -webkit-text-stroke: 1.5px black;
+  margin-top: 700px;}
+
+  .Boutton-1 {Font-size: 70px;
+    border-width:100px;
+    background-color: black;
+    margin-top:250px;
+    margin-left: 25px;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-style: ridge;
+    height:0%;
+    Width: 800px;
+  }
+
+  .Boutton-2 {Font-size: 70px;
+    border-width:100px;
+    background-color: black;
+    margin-top:250px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-style: ridge;
+    height:0%;
+    Width: 800px;
+  }
+  Span {text-transform: uppercase;
+    text-decoration: underline;}

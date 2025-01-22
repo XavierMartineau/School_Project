@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  body {
+    position: relative;
+     margin-top: 10px;
+    padding: 0%;
+    background-image: url(/Images/Livre-sang.jpg);
+background-repeat: no-repeat;
+width: 1500px;
+height: 1080px;
+background-color: black; 
+display: block;}
+ 
+main {
+    position: relative;
+    background-image: url(/Images/Tete\ de\ mort.jpeg);
+    background-repeat: no-repeat;
+  width:1650px;
+  height:1080px;
+  padding:0%;
+  margin-top: 802px;
+  display:block;
+  background-color:#2F4F4F ;
+    background-position: center;}
+
+header {padding:0% ;
+  margin-top: 10px; 
+  margin-left: 6%;
+  text-align: center;
+  font-size: 100px;
+  text-transform: uppercase;
+  color: #006400;
+  letter-spacing: 40px;
+  text-shadow: 15px -0px red;}
+  
+  h2 {padding:2% 5% 5% 5%;
+      margin-top:700px; 
+  margin-right: 0px;
+  font-size: 70px;
+  text-align: center;
+  width: 1650px;
+  height: 900Px;
+  font-weight: 400;
+  color: gold;
+  opacity: 100%;
+  text-shadow: 8px -0px#800000;
+  text-transform: uppercase;
+  font-weight: bold;}
+  
+
+  .Boutton-1 {Font-size: 100px;
+    border-width:100px;
+    background-color: #113130;
+    margin-top:3px;
+    margin-left: 50%;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-style: ridge;
+    height:0%;
+    Width: 800px;
+  }
+
+ 

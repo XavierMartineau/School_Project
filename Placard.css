@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  body {
+    position: relative;
+     margin-top: 0px;
+    padding: 0%;
+    background-image: url(/Images/Placard.jpg);
+background-repeat: no-repeat;
+width: 1500px;
+height: 1080px;
+background-color:gainsboro; 
+display: block;}
+
+
+header {padding:0% ;
+  margin-top: 0px; 
+  margin-left:10%;
+  text-align: center;
+  font-size: 90px;
+  text-transform: uppercase;
+  color: goldenrod;
+    letter-spacing: 10px;
+  text-shadow: 15px -0px red;}
+   
+  h2 {padding:5px;
+  margin-top:880px; 
+  background-color: gainsboro;
+  text-align: center;
+  font-size: 70px;
+  font-weight: 400;
+  margin-left: 10%;
+  color: orange;
+  text-transform: uppercase;
+  font-weight: bold;}
+
+
+  .Boutton-1 {Font-size: 100px;
+    border-width:100px;
+    background-color: burlywood;
+    margin-top:20px;
+    margin-left:50%;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-style: ridge;
+    height:0%;
+    Width: 800px;
+  }

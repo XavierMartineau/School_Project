@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  body {
+    position: relative;
+     margin-top: 10px;
+    padding: 0%;
+    background-image: url(/Images/Bibliothéque.jpg);
+background-repeat: no-repeat;
+width: 1500px;
+height: 1080px;
+background-color: black; 
+display: block;}
+
+
+header {padding:0% ;
+  margin-top: 10px; 
+  margin-left: 5%;
+  text-align: center;
+  font-size: 80px;
+  text-transform: uppercase;
+  color: gray;
+  letter-spacing: 10px;
+  text-shadow: 15px -0px white;}
+  
+  h2 {padding:5% 5% 5% 5%;
+      margin-top:900px; 
+  margin-right: 0px;
+  font-size: 70px;
+  background-color: #011F1F;
+  text-align: center;
+  width: 1650px;
+  height: 900Px;
+  font-weight: 400;
+  color: #A4BFB3;
+  text-transform: uppercase;
+  font-weight: bold;}
+  
+
+  .Boutton-1 {Font-size: 70px;
+    border-width:100px;
+    background-color: #113130;
+    margin-top:3px;
+    margin-left: 25px;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-style: ridge;
+    height:0%;
+    Width: 800px;
+  }
+
+  .Boutton-2 {Font-size: 70px;
+    border-width:100px;
+    background-color:#113130;
+    margin-top:3px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-style: ridge;
+    height:0%;
+    Width: 800px;
+  }
+
+ 

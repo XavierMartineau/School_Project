@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {margin-top: 10px;
+    padding: 0%;
+    background-image:url(./Images/Tete\ de\ mort.jpeg);
+    background-color: #768582;
+    background-repeat: no-repeat;
+    width: 1500px;
+   height: 1900px;
+   display: block;
+   margin-right: 100px;
+   background-size: contain;
+}
+
+
+header{
+  padding:0% ;
+  margin-top: 25px;
+  margin-left: 10%; 
+  text-align: center;
+  font-size: 110px;
+  text-transform: uppercase;
+  color: gold;
+  letter-spacing: 10px;
+  text-shadow: 10px 0px brown;
+}
+ h2 {padding:100px;
+  margin-top: 1300px; 
+  text-align: center;
+  font-size: 60px;
+  font-weight: 800;
+  color: gold; 
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 5px 4px brown;
+  Width:1650px;
+  height: 500px;}
+ 
+ 
+  .Boutton-1 {Font-size: 70px;
+    border-width:100px;
+    background-color:#556B2F;;
+    margin-top:30px;
+    margin-left: 50%;
+    margin-right: 50%;
+    padding: 10px;
+    border-radius: 30px;
+    border-width: 50px;
+    border-style: ridge;
+    height:0%;
+    Width: 800px;
+    border-color: #556B2F;
+  }
